@@ -10,5 +10,6 @@
 <li><a href="page2.php">Page Two</a></li>
 </ul>
 </div>
+<?php echo "Hello World !!";?>
     </body>
 </html>
